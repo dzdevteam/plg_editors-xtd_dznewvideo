@@ -1,2 +1,2 @@
-# plg_editors-xtd_dzvideo
-Add a button to insert video from DZ Video component to article
+# plg_editors-xtd_dznewvideo
+Add a button shortcut to create new DZ video
